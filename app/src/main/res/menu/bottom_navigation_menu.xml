@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:title='HOME'
+        android:id="@+id/store"
+        android:icon="@mipmap/storex2"/>
+    <item
+        android:title="INGRESAR"
+        android:id="@+id/profile"
+        android:icon="@mipmap/profilex1"/>
+</menu>
